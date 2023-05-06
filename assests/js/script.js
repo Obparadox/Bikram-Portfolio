@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["Entreprenurship", "Full-Stack development", "Product Management", "Business Development","Stratergy", "Machine Learning"],
+        strings: ["Entreprenurship", "Product Management","Program Manager", "Growth Product Manager", "Business Analyst", "Finance Analyst", "Business Development", "Full-Stack development", "Stratergy",],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
