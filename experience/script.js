@@ -67,7 +67,7 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Devesh Meena";
+        document.title = "Experience | Portfolio Bikram Purkait";
         $("#favicon").attr("href","/assests/images/favicon.png");
     }
     else {
