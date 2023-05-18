@@ -41,7 +41,7 @@ $(document).ready(function(){
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Portfolio | Devesh Meena";
+        document.title = "Portfolio | Bikram Purkait";
         $("#favicon").attr("href","assests/images/favicon.png");
     }
     else {
@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["Entreprenurship", "Product Management","Program Manager", "Growth Product Manager", "Business Analyst", "Finance Analyst", "Business Development", "Full-Stack development", "Stratergy",],
+        strings: ["Entreprenurship", "Product Management","Program Manager", "Growth Product Manager", "Data Analyst", "Business Analyst", "Finance Analyst", "Business Development", "Stratergy",],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
