@@ -7,8 +7,8 @@
         "desc": "Classify emails as spam or not-spam on the basis of the message.[Naive Bayes, Numpy, Pandas and Sklearn].",
         "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933127/mlpr_c2stn8.jpg",
         "links": {
-            "view": "https://github.com/devesh405/Email-Classification-Model/blob/main/Model/email_classification.ipynb",
-            "code": "https://github.com/devesh405/Email-Classification-Model"
+            "view": "https://github.com/obparadox/Email-Classification-Model/blob/main/Model/email_classification.ipynb",
+            "code": "https://github.com/obparadox/Email-Classification-Model"
         }
     },
     {
@@ -17,8 +17,8 @@
         "desc": "We all know that coronavirus is spreading on a daily basis in India. So, let's try to visualise how fast it is spreading.",
         "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933140/covidml_pdaxpu.png",
         "links": {
-            "view": "https://github.com/devesh405/COVID-19-Outbreak-Analysis-Using-Data-Science/blob/main/COVID-19%20Outbreak%20Analysis%20.ipynb",
-            "code": "https://github.com/devesh405/COVID-19-Outbreak-Analysis-Using-Data-Science"
+            "view": "https://github.com/obparadox/COVID-19-Outbreak-Analysis-Using-Data-Science/blob/main/COVID-19%20Outbreak%20Analysis%20.ipynb",
+            "code": "https://github.com/obparadox/COVID-19-Outbreak-Analysis-Using-Data-Science"
         }
     },
     {
@@ -27,8 +27,8 @@
         "desc": "In this project we are going to build an artificial intelligence neural network to check whether they survived the titanic incident or not",
         "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933129/Titanic_nuxdgz.png",
         "links": {
-            "view": "https://github.com/devesh405/TITANIC-SURVIVOUR-ANALYSIS/blob/main/Titanic_Survivors_Analysis_By_Devesh_.ipynb",
-            "code": "https://github.com/devesh405/TITANIC-SURVIVOUR-ANALYSIS"
+            "view": "https://github.com/obparadox/TITANIC-SURVIVOUR-ANALYSIS/blob/main/Titanic_Survivors_Analysis_By_Devesh_.ipynb",
+            "code": "https://github.com/obparadox/TITANIC-SURVIVOUR-ANALYSIS"
         }
     },
     {
@@ -38,7 +38,7 @@
         "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1628532035/portfolio-Devesh_pbvufi.png",
         "links": {
             "view": "https://devesh405.github.io/Portfolio-Devesh-Meena/",
-            "code": "https://github.com/devesh405/Portfolio-Devesh-Meena"
+            "code": "https://obparadox.github.io/Bikram-Portfolio"
         }
     },
     
@@ -48,8 +48,8 @@
         "desc": "This is a College Library Website in which you can keep a record of all the books you have issued.© 2021 Devesh Meena",
         "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1631398033/44_veugbf.png",
         "links": {
-            "view": "https://devesh405.github.io/Aec-Library-Website/",
-            "code": "https://github.com/devesh405/Aec-Library-Website"
+            "view": "https://obparadox.github.io/Aec-Library-Website/",
+            "code": "https://github.com/obparadox/Aec-Library-Website"
         }
     },
     {
@@ -58,8 +58,8 @@
         "desc": "Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup.",
         "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1628532262/Netflix_ty1ofn.png",
         "links": {
-        "view": "https://netflix-clone-Devesh.herokuapp.com/",
-        "code": "https://github.com/devesh405/Netflix-Clone-PC-App"
+        "view": "https://netflix-clone-Bikram.herokuapp.com/",
+        "code": "https://github.com/obparadox/Netflix-Clone-PC-App"
         }
     }
 
