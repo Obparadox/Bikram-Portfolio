@@ -37,7 +37,7 @@
         "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
         "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1628532035/portfolio-Devesh_pbvufi.png",
         "links": {
-            "view": "https://devesh405.github.io/Portfolio-Devesh-Meena/",
+            "view": "https://obparadox.github.io/Bikram-Portfolio",
             "code": "https://obparadox.github.io/Bikram-Portfolio"
         }
     },
@@ -51,17 +51,8 @@
             "view": "https://obparadox.github.io/Aec-Library-Website/",
             "code": "https://github.com/obparadox/Aec-Library-Website"
         }
-    },
-    {
-        "id": 6,
-        "name": "Netflix Clone | React-App",
-        "desc": "Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup.",
-        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1628532262/Netflix_ty1ofn.png",
-        "links": {
-        "view": "https://netflix-clone-Bikram.herokuapp.com/",
-        "code": "https://github.com/obparadox/Netflix-Clone-PC-App"
-        }
     }
+    
 
     
     
