@@ -15,7 +15,7 @@
         "id": 2,
         "name": "COVID-19 Outbreak Analysis",
         "desc": "We all know that coronavirus is spreading on a daily basis in India. So, let's try to visualise how fast it is spreading.",
-        "image": "https://photos.app.goo.gl/uHPf1Man3azPo77u5.jpg",
+        "image": "https://asset.cloudinary.com/dnhwsruex/0b8aea0192172de426999460316c34cb",
         "links": {
             "view": "https://github.com/obparadox/COVID-19-Outbreak-Analysis-Using-Data-Science/blob/main/COVID-19%20Outbreak%20Analysis%20.ipynb",
             "code": "https://github.com/obparadox/COVID-19-Outbreak-Analysis-Using-Data-Science"
