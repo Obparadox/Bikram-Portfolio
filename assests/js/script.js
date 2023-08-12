@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["Entreprenurship", "Product Management","Program Manager", "Growth Product Manager", "Data Analyst", "Business Analyst", "Finance Analyst", "Business Development", "Stratergy",],
+        strings: ["Entreprenurship", "Product Management", "Data Analyst", "Business Analyst", "Power BI Developer", "Business Development",],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
