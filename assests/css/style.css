@@ -847,6 +847,14 @@ header .navbar ul li a:hover{
   max-width: 1200px;
   margin: 0 auto;
 }
+.expreience .quote {
+  font-size: 1.5rem;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
+  margin-top: 0.5rem;
+  color: white; /* Adding white color */
+}
 .experience .timeline::after {
   content: '';
   position: absolute;
