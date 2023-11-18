@@ -724,13 +724,15 @@ header .navbar ul li a:hover{
 .work .heading span{
   color: rgb(255, 230, 0);
 }
-.work .qoute{
+.work .quote {
   font-size: 1.5rem;
   text-align: center;
   font-family: 'Nunito', sans-serif;
   font-weight: 600;
-  margin-top: .5rem;
+  margin-top: 0.5rem;
+  color: white; /* Adding white color */
 }
+
 .work .box-container{
   display: flex;
   flex-wrap: wrap;
