@@ -20,7 +20,7 @@ $(document).ready(function(){
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Projects | Portfolio Devesh Meena";
+        document.title = "Projects | Portfolio Bikram Purkait";
         $("#favicon").attr("href","/assests/images/favicon.png");
     }
     else {
